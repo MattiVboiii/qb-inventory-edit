@@ -11,6 +11,9 @@
 - Shops
 - Item Drops
 
+## Preview
+![image](https://github.com/MattiVboiii/qb-inventory-edit/assets/57048210/5abef7ff-40e6-4edb-9d66-d8fa7da0f3ca)
+
 ## Documentation
 https://docs.qbcore.org/qbcore-documentation/qbcore-resources/qb-inventory
 
