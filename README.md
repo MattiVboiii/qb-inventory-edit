@@ -1,5 +1,20 @@
 # qb-inventory
 
+## Changes/Edits
+### 27-06-2024
+- Added glow and zoom when you hover over an item
+- Added the scrollbar back
+- Added an entire black transparent background color
+- Added nl.lua
+- Made the item background color a bit darker
+- Made the shop price more bold and bigger
+
+## Future Plans
+- Make the inventory fade in/out
+- Return the Use, Give & Drop functions in the middle from the old inv
+
+(Any help is appreciated)
+
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-smallresources](https://github.com/qbcore-framework/qb-smallresources) - For logging transfer and other history
