@@ -1,14 +1,5 @@
 # qb-inventory
 
-## Changes/Edits
-### 27-06-2024
-- Added glow and zoom when you hover over an item
-- Added the scrollbar back
-- Added an entire black transparent background color
-- Added nl.lua
-- Made the item background color a bit darker
-- Made the shop price more bold and bigger
-
 ## Future Plans
 - Make the inventory fade in/out
 - Return the Use, Give & Drop functions in the middle from the old inv
@@ -27,7 +18,31 @@
 - Item Drops
 
 ## Preview
+### Shop
 ![image](https://github.com/MattiVboiii/qb-inventory-edit/assets/57048210/5abef7ff-40e6-4edb-9d66-d8fa7da0f3ca)
+### Hotbar
+![image](https://cdn.discordapp.com/attachments/1255861184754745354/1270662231520055337/image.png?ex=66b483eb&is=66b3326b&hm=2fcac2bfb87897769ba157de5729fe09fc438f81067b463fbbad6a8126230e4b&)
+### Submenu
+![image](https://cdn.discordapp.com/attachments/1255861184754745354/1270663135921045636/image.png?ex=66b484c3&is=66b33343&hm=2b3d29b3305e9ab591885cb629fd71b4faeb7c3872dbc0e9bb69999ce601b41f&)
+
+## Changes/Edits
+### 27-06-2024
+- Added glow and zoom when you hover over an item
+- Added the scrollbar back
+- Added an entire black transparent background color
+- Added nl.lua
+- Made the item background color a bit darker
+- Made the shop price more bold and bigger
+
+### 06-08-2024
+- Added glow in submenu
+- Changed to linear transitions
+- More color changes
+
+### 07-08-2024
+- Changed hotbar label color
+- Lifted the hotbar label to reveal durability
+- Brightened the radial-gradient in item-slot
 
 ## Documentation
 https://docs.qbcore.org/qbcore-documentation/qbcore-resources/qb-inventory
